@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Robot Controller</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="connection_disconnected">Bluetooth Connection: Disconnected</string>
+    <string name="connection_connected">Bluetooth Connection: Connected</string>
+    <string name="connect">Connect to Robot!</string>
+
+    <string name="vertical_bar_max">"30"</string>
+
+    //progress should be vertical_bar_max / 2
+    <string name="vertical_bar_progress">"15"</string>
+
+</resources>
